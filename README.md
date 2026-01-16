@@ -1,6 +1,7 @@
 # QR Overlay
 
 A Flask web app that overlays QR codes from a CSV column onto a PDF, one QR per page.
+**Useful for creating labels for hoodie orders or such.**
 
 - CSV must have a header row.
 - CSV rows (excluding header) must match the number of PDF pages and be in the correct order.
