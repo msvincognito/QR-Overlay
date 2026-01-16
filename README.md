@@ -1,4 +1,4 @@
-# QR Bulk Adder (Web)
+# QR Overlay
 
 A Flask web app that overlays QR codes from a CSV column onto a PDF, one QR per page.
 
